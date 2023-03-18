@@ -1,0 +1,15 @@
+{
+  "name": "signupUI",
+  "author": "Odelola",
+  "version": "1.0.0",
+  "description": "A SignUp UI created using LESS and inspired by dribbble design",
+  "main": "index.html",
+  "repository": "https://github.com/Odelola/less-signupUI",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/lessc assets/less/styles.less assets/css/styles.css"
+  },
+  "dependencies": {
+    "less": "^4.1.3"
+  }
+}
